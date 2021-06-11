@@ -1,3 +1,11 @@
+html, body {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
 .first{
     border: 2px solid black;
     height:400px;
