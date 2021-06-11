@@ -1,5 +1,7 @@
-body{
-    margin: auto;
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
 }
 .imageContainer{
     background: url('https://i.ibb.co/85b18PM/food-wallpaper.png');
@@ -8,13 +10,6 @@ body{
     border: 1px solid gray;
 }
 
-html, body {
-    position:fixed;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
-}
 
 
 #logo{
