@@ -1,0 +1,16 @@
+#aboutheading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: red;
+    text-shadow: 1px 2px solid red;
+}
+.list{
+    font-size: 15px;
+    font-style: oblique;
+}
+#scrooling{
+    background-color: rgb(138, 220, 252);
+    height:28px;
+    color: red;
+    font-size: 18px;
+}
