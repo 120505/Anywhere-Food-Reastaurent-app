@@ -24,7 +24,7 @@ class ListingApi extends Component{
         return(
            <div className="row" >
                 <Header/>
-                <div style={{marginLeft:'1.8%'}}>
+                <div style={{marginLeft:'2%'}}>
 
                     <div className="col-md-2">
                         <CuisineFilter restPerCuisine={(data) => {this.setDataPerFilter(data)}}/>
